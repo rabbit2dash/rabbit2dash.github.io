@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>root &#8211; 兔达西科技有限公司</title>
+	<atom:link href="/author/root/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>因为专注，所以做到极致！</description>
+	<lastBuildDate>
+	Sun, 28 Apr 2019 07:09:55 +0000	</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2019/04/cropped-logo-512x512-32x32.png</url>
+	<title>root &#8211; 兔达西科技有限公司</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>关于兔达西</title>
+		<link>/about-us.html</link>
+				<pubDate>Sun, 28 Apr 2019 06:57:03 +0000</pubDate>
+		<dc:creator><![CDATA[root]]></dc:creator>
+				<category><![CDATA[未分类]]></category>
+
+		<guid isPermaLink="false">/?p=19</guid>
+				<description><![CDATA[]]></description>
+								<content:encoded><![CDATA[]]></content:encoded>
+										</item>
+		<item>
+		<title>急速建门户网站</title>
+		<link>/create-portal.html</link>
+				<pubDate>Sun, 28 Apr 2019 06:56:10 +0000</pubDate>
+		<dc:creator><![CDATA[root]]></dc:creator>
+				<category><![CDATA[未分类]]></category>
+
+		<guid isPermaLink="false">/?p=17</guid>
+				<description><![CDATA[]]></description>
+								<content:encoded><![CDATA[]]></content:encoded>
+										</item>
+		<item>
+		<title>数据台账解决方案</title>
+		<link>/datastore-house.html</link>
+				<pubDate>Sun, 28 Apr 2019 06:52:25 +0000</pubDate>
+		<dc:creator><![CDATA[root]]></dc:creator>
+				<category><![CDATA[未分类]]></category>
+
+		<guid isPermaLink="false">/?p=15</guid>
+				<description><![CDATA[]]></description>
+								<content:encoded><![CDATA[]]></content:encoded>
+										</item>
+	</channel>
+</rss>
