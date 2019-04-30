@@ -13,7 +13,7 @@
 	<link></link>
 	<description>因为专注，所以做到极致！</description>
 	<lastBuildDate>
-	Mon, 29 Apr 2019 08:40:27 +0000	</lastBuildDate>
+	Tue, 30 Apr 2019 02:35:42 +0000	</lastBuildDate>
 	<language>zh-CN</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -63,7 +63,7 @@
 
 
 
-<p><strong>赠送三个一</strong>。1个域名（例如：http://2dash.cn）、赠送10个域名邮箱（例如：yourname@2dash.cn）、1次免费更新服务。/</p>
+<p><strong>赠送三个一</strong>。1个域名（例如：https://2dash.cn）、赠送10个域名邮箱（例如：yourname@2dash.cn）、1次免费更新服务。/</p>
 
 
 
@@ -71,16 +71,24 @@
 ]]></content:encoded>
 										</item>
 		<item>
-		<title>数据台账解决方案</title>
+		<title>数据仓库解决方案</title>
 		<link>/datastore-house.html</link>
 				<pubDate>Sun, 28 Apr 2019 06:52:25 +0000</pubDate>
 		<dc:creator><![CDATA[root]]></dc:creator>
 				<category><![CDATA[未分类]]></category>
 
 		<guid isPermaLink="false">/?p=15</guid>
-				<description><![CDATA[兔达西台账系统，点击这里 http://store.2dash.cn:9001/ 在线演示。]]></description>
+				<description><![CDATA[兔达西仓库系统，您的工作任务跟踪、台账管理、知识库管理、内部新闻论坛解决方案。 我们一如既往的高效、一如既往的 &#8230; <p class="link-more"><a href="/datastore-house.html" class="more-link">继续阅读<span class="screen-reader-text">“数据仓库解决方案”</span></a></p>]]></description>
 								<content:encoded><![CDATA[
-<p>兔达西台账系统，点击这里 <a href="http://store.2dash.cn:9001/">http://store.2dash.cn:9001/</a> 在线演示。</p>
+<p>兔达西仓库系统，您的<strong>工作任务跟踪</strong>、<strong>台账管理</strong>、<strong>知识库管理</strong>、<strong>内部新闻论坛</strong>解决方案。</p>
+
+
+
+<p>我们一如既往的高效、一如既往的专业。</p>
+
+
+
+<p>点击这里 <a href="http://store.2dash.cn:9001/">http://store.2dash.cn:9001/</a> 在线演示。（演示账号和密码：demo1/demo2，demo2/demo2）</p>
 ]]></content:encoded>
 										</item>
 	</channel>
