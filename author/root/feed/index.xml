@@ -13,7 +13,7 @@
 	<link></link>
 	<description>因为专注，所以做到极致！</description>
 	<lastBuildDate>
-	Tue, 30 Apr 2019 02:35:42 +0000	</lastBuildDate>
+	Tue, 30 Apr 2019 02:52:33 +0000	</lastBuildDate>
 	<language>zh-CN</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,23 +29,6 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>关于兔达西</title>
-		<link>/about-us.html</link>
-				<pubDate>Sun, 28 Apr 2019 06:57:03 +0000</pubDate>
-		<dc:creator><![CDATA[root]]></dc:creator>
-				<category><![CDATA[未分类]]></category>
-
-		<guid isPermaLink="false">/?p=19</guid>
-				<description><![CDATA[武汉兔达西科技有限公司成立于2016年。主要从事计算机软硬件的研发及批零兼营、办公设施设备、办公用品、网络工程 &#8230; <p class="link-more"><a href="/about-us.html" class="more-link">继续阅读<span class="screen-reader-text">“关于兔达西”</span></a></p>]]></description>
-								<content:encoded><![CDATA[
-<p>武汉兔达西科技有限公司成立于2016年。主要从事计算机软硬件的研发及批零兼营、办公设施设备、办公用品、网络工程、职能工程解决方案等。</p>
-
-
-
-<p>现在就联系我们的金牌服务经理吧。 <a href="mailto:bobo@2dash.cn">mailto:bobo@2dash.cn</a></p>
-]]></content:encoded>
-										</item>
-		<item>
 		<title>门户网站8h急速建</title>
 		<link>/create-portal.html</link>
 				<pubDate>Sun, 28 Apr 2019 06:56:10 +0000</pubDate>
@@ -73,7 +56,7 @@
 		<item>
 		<title>数据仓库解决方案</title>
 		<link>/datastore-house.html</link>
-				<pubDate>Sun, 28 Apr 2019 06:52:25 +0000</pubDate>
+				<pubDate>Wed, 30 Jan 2019 04:00:25 +0000</pubDate>
 		<dc:creator><![CDATA[root]]></dc:creator>
 				<category><![CDATA[未分类]]></category>
 
@@ -88,7 +71,53 @@
 
 
 
-<p>点击这里 <a href="http://store.2dash.cn:9001/">http://store.2dash.cn:9001/</a> 在线演示。（演示账号和密码：demo1/demo2，demo2/demo2）</p>
+<p>点击这里 <a href="http://store.2dash.cn:9001/" target="_blank" rel="noreferrer noopener" aria-label="（在新窗口打开）">http://store.2dash.cn:9001/</a> 在线演示。（演示账号和密码：demo1/demo2，demo2/demo2）</p>
+]]></content:encoded>
+										</item>
+		<item>
+		<title>区块链应用-永恒之墙</title>
+		<link>/eternitywall.html</link>
+				<pubDate>Mon, 29 Oct 2018 02:43:40 +0000</pubDate>
+		<dc:creator><![CDATA[root]]></dc:creator>
+				<category><![CDATA[未分类]]></category>
+
+		<guid isPermaLink="false">/?p=43</guid>
+				<description><![CDATA[To see a world in a grain of sand从一粒沙里看整个世界 And a heave &#8230; <p class="link-more"><a href="/eternitywall.html" class="more-link">继续阅读<span class="screen-reader-text">“区块链应用-永恒之墙”</span></a></p>]]></description>
+								<content:encoded><![CDATA[
+<p>To see a world in a grain of sand<br>从一粒沙里看整个世界<br></p>
+
+
+
+<p>And a heaven in a wild flower<br>从一朵野花窥见天堂<br></p>
+
+
+
+<p>Hold infinity in the palm of your hand<br>将无限紧握在你手心</p>
+
+
+
+<p>And eternity in an hour<br>把永恒在一刹那里收藏</p>
+
+
+
+<p>点击这里 <a href="https://eternitywall.cn/" target="_blank" rel="noreferrer noopener" aria-label="（在新窗口打开）">https://eternitywall.cn/</a> 记录永恒 </p>
+]]></content:encoded>
+										</item>
+		<item>
+		<title>关于兔达西</title>
+		<link>/about-us.html</link>
+				<pubDate>Wed, 01 Jun 2016 04:00:03 +0000</pubDate>
+		<dc:creator><![CDATA[root]]></dc:creator>
+				<category><![CDATA[未分类]]></category>
+
+		<guid isPermaLink="false">/?p=19</guid>
+				<description><![CDATA[武汉兔达西科技有限公司成立于2016年。主要从事计算机软硬件的研发及批零兼营、办公设施设备、办公用品、网络工程 &#8230; <p class="link-more"><a href="/about-us.html" class="more-link">继续阅读<span class="screen-reader-text">“关于兔达西”</span></a></p>]]></description>
+								<content:encoded><![CDATA[
+<p>武汉兔达西科技有限公司成立于2016年。主要从事计算机软硬件的研发及批零兼营、办公设施设备、办公用品、网络工程、职能工程解决方案等。</p>
+
+
+
+<p>现在就联系我们的金牌服务经理吧。 <a href="mailto:bobo@2dash.cn">mailto:bobo@2dash.cn</a></p>
 ]]></content:encoded>
 										</item>
 	</channel>
